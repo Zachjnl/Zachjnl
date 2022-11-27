@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zachjnl
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in programming and video games
+- 🌱 I recently graduated with a Bachelor's in Computer Science
 - 💞️ I’m looking to collaborate on cool, fun, innovative projects
-- 📫 How to reach me ...
+- 📫 You can reach me at ZachJNL@gmail.com
 
 <!---
 Zachjnl/Zachjnl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
